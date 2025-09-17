@@ -22,7 +22,7 @@ form.addEventListener('submit', async (e) => {
       headers: {'Content-Type': 'application/json'},
       body: JSON.stringify(data),
     });
-
+    
     if (resp.ok) {  
       result.textContent = 'Message sent!';
       result.className = 'success';
