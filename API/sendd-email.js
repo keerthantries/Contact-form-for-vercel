@@ -36,7 +36,7 @@ export default async function handler(req, res) {
                     font-family:Poppins,Arial,sans-serif;font-size:16px;line-height:1.6;color:#333;">
           <div style="background: linear-gradient(359deg, #1976d2c2 15%, #26c6da 94%);
                       filter: brightness(1.1);color:#ffffff;text-align:center;padding:1.8em;">
-            <img src="https://i.ibb.co/tpP9hVh1/logo-removebg-preview.png" alt="VSaaS Logo" 
+            <img src="https://vsaastechnologies.com/assets/img/logo-black.png" alt="VSaaS Logo" 
                  style="height:50px;max-width:100%;margin-bottom:10px;filter: drop-shadow(-0px 1px 3px #6fb5d9);">
             <h4 style="margin:0;font-weight:400;font-size:1.1em;letter-spacing:1px;">
               Thank You for Reaching Out
